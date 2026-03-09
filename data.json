@@ -1,12 +1,72 @@
 {
+  "matches": [
+    {
       "teamA": "ريال مدريد",
-      "logoA": "رابط_صورة",
+      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
       "teamB": "برشلونة",
-      "logoB": "رابط_صورة",
+      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/150px-FC_Barcelona_%28crest%29.svg.png",
       "time": "21:00",
       "commentator": "عصام الشوالي",
-      "server1": "رابط_جودة_4k",
-      "server2": "رابط_جودة_hd",
-      "server3": "رابط_جودة_sd",
-      "url": "الرابط_الأساسي_إذا_فشلت_السيرفرات"
+      "server1": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "server2": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "server3": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "teamA": "مانشستر سيتي",
+      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/150px-Manchester_City_FC_badge.svg.png",
+      "teamB": "أرسنال",
+      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/150px-Arsenal_FC.svg.png",
+      "time": "18:30",
+      "commentator": "حفيظ دراجي",
+      "server1": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "server2": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "server3": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
+  ],
+  "channels": [
+    {
+      "name": "BeIN Sports 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_1_logo.svg/150px-BeIN_Sports_1_logo.svg.png",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "BeIN Sports 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BeIN_Sports_2_logo.svg/150px-BeIN_Sports_2_logo.svg.png",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "الجزيرة الإخبارية",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/07/Al_Jazeera_logo.svg/150px-Al_Jazeera_logo.svg.png",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "name": "OSN Movies",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/OSN_Movies_Logo.png/150px-OSN_Movies_Logo.png",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Interstellar",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QvpsT6T7G6dfZCUjCfnxyBE.jpg",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "title": "The Dark Knight",
+      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    {
+      "title": "Inception",
+      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    },
+    {
+      "title": "Oppenheimer",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+  ]
+}
