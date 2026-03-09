@@ -2,9 +2,9 @@
   "matches": [
     {
       "teamA": "ريال مدريد",
-      "logoA": "https://upload.wikimedia.org/wikipedia/ar/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
       "teamB": "برشلونة",
-      "logoB": "https://upload.wikimedia.org/wikipedia/ar/thumb/a/ad/FC_Barcelona.svg/1200px-FC_Barcelona.svg.png",
+      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/150px-FC_Barcelona_%28crest%29.svg.png",
       "time": "21:00",
       "commentator": "عصام الشوالي",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
