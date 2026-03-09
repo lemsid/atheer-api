@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BeIN Sports 1",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_1_logo.svg/1200px-BeIN_Sports_1_logo.svg.png",
+    "url": "https://your-live-link.m3u8",
+    "category": "Sports"
+  },
+  {
+    "name": "Interstellar",
+    "logo": "https://image.tmdb.org/t/p/w500/gEU2QvpsT6T7G6dfZCUjCfnxyBE.jpg",
+    "url": "https://your-movie-link.mp4",
+    "category": "Movies"
+  }
+]
