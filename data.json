@@ -1,27 +1,12 @@
 {
-  "matches": [
-    {
       "teamA": "ريال مدريد",
-      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
+      "logoA": "رابط_صورة",
       "teamB": "برشلونة",
-      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/150px-FC_Barcelona_%28crest%29.svg.png",
+      "logoB": "رابط_صورة",
       "time": "21:00",
       "commentator": "عصام الشوالي",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "server1": "رابط_جودة_4k",
+      "server2": "رابط_جودة_hd",
+      "server3": "رابط_جودة_sd",
+      "url": "الرابط_الأساسي_إذا_فشلت_السيرفرات"
     }
-  ],
-  "channels": [
-    {
-      "name": "BeIN Sports 1",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_1_logo.svg/1200px-BeIN_Sports_1_logo.svg.png",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    }
-  ],
-  "movies": [
-    {
-      "title": "Interstellar",
-      "poster": "https://image.tmdb.org/t/p/w500/gEU2QvpsT6T7G6dfZCUjCfnxyBE.jpg",
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    }
-  ]
-}
