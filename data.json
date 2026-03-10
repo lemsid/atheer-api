@@ -14,9 +14,10 @@
       "redCardsA": 1,
       "redCardsB": 0,
       "penalties": "4 - 2",
-      "channel": "beIN 4K",
-      "commentator": "عصام الشوالي",
-      "url": "https://example.com/live1"
+      "broadcasts": [
+        {"channel": "beIN 1", "commentator": "عصام الشوالي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
+        {"channel": "beIN 4K", "commentator": "حفيظ دراجي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
+      ]
     },
     {
       "league": "دوري روشن السعودي",
@@ -31,9 +32,10 @@
       "half": "LIVE",
       "redCardsA": 0,
       "redCardsB": 2,
-      "channels": ["beIN 1", "beIN 4K", "beIN English"], 
-      "commentators": ["عصام الشوالي", "حفيظ دراجي"],
-      "url": "https://example.com/live2"
+      "broadcasts": [
+        {"channel": "SSC 1 HD", "commentator": "فهد العتيبي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
+        {"channel": "SSC News", "commentator": "فارس عوض", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
+      ]
     },
     {
       "league": "الدوري الإيطالي",
@@ -48,9 +50,9 @@
       "half": "استراحة",
       "redCardsA": 0,
       "redCardsB": 0,
-      "channel": "AD Sports",
-      "commentator": "فارس عوض",
-      "url": "https://example.com/live3"
+      "broadcasts": [
+        {"channel": "AD Sports", "commentator": "فارس عوض", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
+      ]
     },
     {
       "league": "الدوري الإنجليزي",
@@ -62,9 +64,9 @@
       "status": "postponed",
       "time": "مؤجلة",
       "half": "POSTPONED",
-      "channel": "beIN Sports 1",
-      "commentator": "غير محدد",
-      "url": ""
+      "broadcasts": [
+        {"channel": "beIN Sports 1", "commentator": "غير محدد", "url": ""}
+      ]
     },
     {
       "league": "دوري أبطال أوروبا",
@@ -76,9 +78,9 @@
       "status": "finished",
       "score": "2 - 8",
       "half": "FINISHED",
-      "channel": "beIN Sports Premium",
-      "commentator": "حفيظ دراجي",
-      "url": "https://example.com/highlights"
+      "broadcasts": [
+        {"channel": "beIN Sports Premium", "commentator": "حفيظ دراجي", "url": "https://example.com/highlights"}
+      ]
     },
     {
       "league": "الدوري الإسباني",
@@ -90,9 +92,9 @@
       "status": "upcoming",
       "time": "23:00",
       "half": "UPCOMING",
-      "channel": "beIN Sports 2",
-      "commentator": "علي محمد علي",
-      "url": "https://example.com/stream3"
+      "broadcasts": [
+        {"channel": "beIN Sports 2", "commentator": "علي محمد علي", "url": "https://example.com/stream3"}
+      ]
     }
   ],
   "channels": [
