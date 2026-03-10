@@ -36,6 +36,23 @@
       "url": "https://example.com/live2"
     },
     {
+      "league": "الدوري الإيطالي",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Serie_A_logo_2022.svg/512px-Serie_A_logo_2022.svg.png",
+      "teamA": "يوفنتوس",
+      "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juventus_FC_2017_icon_%28black%29.svg/512px-Juventus_FC_2017_icon_%28black%29.svg.png",
+      "teamB": "إنتر ميلان",
+      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/FC_Internazionale_Milano_2021.svg/512px-FC_Internazionale_Milano_2021.svg.png",
+      "status": "live",
+      "score": "0 - 0",
+      "minute": "45'",
+      "half": "استراحة",
+      "redCardsA": 0,
+      "redCardsB": 0,
+      "channel": "AD Sports",
+      "commentator": "فارس عوض",
+      "url": "https://example.com/live3"
+    },
+    {
       "league": "الدوري الإنجليزي",
       "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/512px-Premier_League_Logo.svg.png",
       "teamA": "ليفربول",
@@ -52,6 +69,20 @@
     {
       "league": "دوري أبطال أوروبا",
       "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/512px-UEFA_Champions_League_logo_2.svg.png",
+      "teamA": "برشلونة",
+      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/512px-FC_Barcelona_%28crest%29.svg.png",
+      "teamB": "بايرن ميونخ",
+      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/512px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "status": "finished",
+      "score": "2 - 8",
+      "half": "FINISHED",
+      "channel": "beIN Sports Premium",
+      "commentator": "حفيظ دراجي",
+      "url": "https://example.com/highlights"
+    },
+    {
+      "league": "الدوري الإسباني",
+      "league_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/512px-LaLiga_logo_2023.svg.png",
       "teamA": "ريال مدريد",
       "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/512px-Real_Madrid_CF.svg.png",
       "teamB": "ميلان",
@@ -60,7 +91,7 @@
       "time": "23:00",
       "half": "UPCOMING",
       "channel": "beIN Sports 2",
-      "commentator": "حفيظ دراجي",
+      "commentator": "علي محمد علي",
       "url": "https://example.com/stream3"
     }
   ],
