@@ -144,5 +144,36 @@
       "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     }
+  ],
+
+  "vip_today": [
+    {
+      "type": "single",
+      "match": "ريال مدريد vs برشلونة",
+      "prediction": "فوز ريال مدريد (1)",
+      "odd": "1.85",
+      "code": "ATHEER-99X",
+      "status": "pending"
+    },
+    {
+      "type": "accumulator",
+      "matches": [
+        {"match": "ليفربول vs مان سيتي", "prediction": "أكثر من 2.5 هدف", "odd": "1.70"},
+        {"match": "أرسنال vs تشيلسي", "prediction": "كلا الفريقين يسجل", "odd": "1.65"}
+      ],
+      "total_odd": "2.80",
+      "code": "ACC-77Y",
+      "status": "pending"
+    }
+  ],
+  "vip_previous": [
+    {
+      "type": "single",
+      "match": "بايرن ميونخ vs دورتموند",
+      "prediction": "فوز بايرن (1)",
+      "odd": "1.50",
+      "code": "OLD-11M",
+      "status": "won"
+    }
   ]
 }
