@@ -31,8 +31,8 @@
       "half": "LIVE",
       "redCardsA": 0,
       "redCardsB": 2,
-      "channel": "SSC 1 HD",
-      "commentator": "فهد العتيبي",
+      "channels": ["beIN 1", "beIN 4K", "beIN English"], 
+      "commentators": ["عصام الشوالي", "حفيظ دراجي"],
       "url": "https://example.com/live2"
     },
     {
