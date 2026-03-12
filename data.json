@@ -1,6 +1,12 @@
 {
   "current_vip_code": "ABC123",
   
+  "custom_ad": {
+    "is_active": true,
+    "image_url": "https://i.imgur.com/8Qe8W9o.png",
+    "click_url": "https://t.me/AtheerApp"
+  },
+  
   "matches": [
     {
       "league": "نهائي كأس العالم 2026",
