@@ -1,5 +1,6 @@
 {
   "current_vip_code": "ABC123",
+  
   "matches": [
     {
       "league": "نهائي كأس العالم 2026",
@@ -16,71 +17,21 @@
       "redCardsB": 0,
       "penalties": "4 - 2",
       "broadcasts": [
-        {"channel": "beIN 1", "commentator": "عصام الشوالي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
-        {"channel": "beIN 4K", "commentator": "حفيظ دراجي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
-      ]
-    },
-    {
-      "league": "دوري روشن السعودي",
-      "league_logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/a/a3/SPL_Logo.png/512px-SPL_Logo.png",
-      "teamA": "النصر",
-      "logoA": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/05/Al-Nassr_Logo.svg/512px-Al-Nassr_Logo.svg.png",
-      "teamB": "الهلال",
-      "logoB": "https://upload.wikimedia.org/wikipedia/ar/thumb/a/a8/Al-Hilal_Saudi_FC_Logo.svg/512px-Al-Hilal_Saudi_FC_Logo.svg.png",
-      "status": "live",
-      "score": "1 - 1",
-      "minute": "85'",
-      "half": "LIVE",
-      "redCardsA": 0,
-      "redCardsB": 2,
-      "broadcasts": [
-        {"channel": "SSC 1 HD", "commentator": "فهد العتيبي", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
-        {"channel": "SSC News", "commentator": "فارس عوض", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
-      ]
-    },
-    {
-      "league": "الدوري الإيطالي",
-      "league_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Serie_A_logo_2022.svg/512px-Serie_A_logo_2022.svg.png",
-      "teamA": "يوفنتوس",
-      "logoA": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juventus_FC_2017_icon_%28black%29.svg/512px-Juventus_FC_2017_icon_%28black%29.svg.png",
-      "teamB": "إنتر ميلان",
-      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/FC_Internazionale_Milano_2021.svg/512px-FC_Internazionale_Milano_2021.svg.png",
-      "status": "live",
-      "score": "0 - 0",
-      "minute": "45'",
-      "half": "استراحة",
-      "redCardsA": 0,
-      "redCardsB": 0,
-      "broadcasts": [
-        {"channel": "AD Sports", "commentator": "فارس عوض", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
-      ]
-    },
-    {
-      "league": "الدوري الإنجليزي",
-      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/512px-Premier_League_Logo.svg.png",
-      "teamA": "ليفربول",
-      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/512px-Liverpool_FC.svg.png",
-      "teamB": "تشيلسي",
-      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/512px-Chelsea_FC.svg.png",
-      "status": "postponed",
-      "time": "مؤجلة",
-      "half": "POSTPONED",
-      "broadcasts": [
-        {"channel": "beIN Sports 1", "commentator": "غير محدد", "url": ""}
-      ]
-    },
-    {
-      "league": "دوري أبطال أوروبا",
-      "league_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/512px-UEFA_Champions_League_logo_2.svg.png",
-      "teamA": "برشلونة",
-      "logoA": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/512px-FC_Barcelona_%28crest%29.svg.png",
-      "teamB": "بايرن ميونخ",
-      "logoB": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/512px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-      "status": "finished",
-      "score": "2 - 8",
-      "half": "FINISHED",
-      "broadcasts": [
-        {"channel": "beIN Sports Premium", "commentator": "حفيظ دراجي", "url": "https://example.com/highlights"}
+        {
+          "channel": "beIN 1",
+          "commentator": "عصام الشوالي",
+          "servers": [
+            {"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
+            {"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
+            {"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"},
+            {"url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"}
+          ]
+        },
+        {
+          "channel": "SSC 1",
+          "commentator": "فهد العتيبي",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        }
       ]
     },
     {
@@ -94,56 +45,29 @@
       "time": "23:00",
       "half": "UPCOMING",
       "broadcasts": [
-        {"channel": "beIN Sports 2", "commentator": "علي محمد علي", "url": "https://example.com/stream3"}
+        {
+          "channel": "beIN Sports 2",
+          "commentator": "علي محمد علي",
+          "url": "https://example.com/stream3"
+        }
       ]
     }
   ],
+
   "channels": [
     {
       "name": "BeIN Sports 1",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BeIN_Sports_1_logo.svg/150px-BeIN_Sports_1_logo.svg.png",
       "category": "رياضة",
       "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "name": "BeIN Sports 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BeIN_Sports_2_logo.svg/150px-BeIN_Sports_2_logo.svg.png",
-      "category": "رياضة",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "name": "الجزيرة الإخبارية",
-      "logo": "https://upload.wikimedia.org/wikipedia/ar/thumb/0/07/Al_Jazeera_logo.svg/150px-Al_Jazeera_logo.svg.png",
-      "category": "أخبار",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "name": "OSN Movies",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/OSN_Movies_Logo.png/150px-OSN_Movies_Logo.png",
-      "category": "أفلام",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ],
+
   "movies": [
     {
       "title": "Interstellar",
       "poster": "https://image.tmdb.org/t/p/w500/gEU2QvpsT6T7G6dfZCUjCfnxyBE.jpg",
       "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-      "title": "The Dark Knight",
-      "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-    },
-    {
-      "title": "Inception",
-      "poster": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-    },
-    {
-      "title": "Oppenheimer",
-      "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
-      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     }
   ],
 
