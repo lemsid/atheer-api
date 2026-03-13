@@ -6,7 +6,10 @@
     "image_url": "https://www.affpaying.com/blog/become-a-1xpartner-and-boost-your-affiliate-business-with-1xbet",
     "click_url": "https://t.me/AtheerApp"
   },
-  
+  "vip": [
+    { "title": "قسيمة 1", ... },
+    { "title": "قسيمة 2", ... }
+  ],
   "matches": [
     {
       "league": "نهائي كأس العالم 2026",
