@@ -6,6 +6,11 @@
     "image_url": "https://raw.githubusercontent.com/lemsid/atheer-api/main/ad_banner.png",
     "click_url": "https://t.me/AtheerApp"
   },
+  "app_update": {
+    "latest_version": "1.0.1", 
+    "update_message": "تم إطلاق تحديث جديد يضم ميزات خرافية وقنوات جديدة! يجب التحديث للمتابعة.",
+    "update_url": "https://t.me/Atheer_1xbet"
+  },
   
   "matches": [
     {
